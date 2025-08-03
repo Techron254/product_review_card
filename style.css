@@ -101,6 +101,7 @@ body{
         display: flex;
         width: 50%;
         min-width: 650px;
+        border-radius: 0;
     }
     .product-details{
         width: 50%;
