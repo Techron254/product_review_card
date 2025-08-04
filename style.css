@@ -35,20 +35,21 @@ body{
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    margin: 0.5rem 0;
+    margin: 0.5em 0;
     letter-spacing: 0.3em;
 }
 #gb{
     font-size: 2rem;
     font-family: 'Fraunces', sans-serif;
     font-weight: 700;
+    margin-bottom: 1em;
 }
 .description{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     font-size: 0.875rem;
     color: hsl(228, 12%, 48%);
-    margin: 1rem 0;
+    margin: 1em 0;
 }
 .prices{
     display: flex;
@@ -56,7 +57,7 @@ body{
     align-items: center;
     flex-wrap: wrap;
     gap: 10%;
-    margin: 1rem 0;
+    margin: 1em 0;
 }
 .add-to-cart{
     background-color: hsl(158, 36%, 37%);
@@ -101,7 +102,7 @@ body{
         margin: 2rem auto;
         display: flex;
         width: 50%;
-        min-width: 600px;
+        min-width: 500px;
         border-radius: 0.5rem;
     }
     .product-details{
