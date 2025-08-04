@@ -36,6 +36,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     margin: 0.5rem 0;
+    letter-spacing: 0.3em;
 }
 #gb{
     font-size: 2rem;
